@@ -14,8 +14,10 @@ MSc Data Science Module
 
 ### Google Colb
 https://drive.google.com/file/d/18b1CaZ8bG9XIySyOV3-a9X2nErGy47pf/view?usp=sharing
+https://drive.google.com/drive/folders/1rlPPCpkTL1pyRQTE6tsp3jLqZbmP6YM3?usp=sharing
 
 ### Tableau
 https://public.tableau.com/views/Employee_Attrition_16431209161820/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ### Youtube - 5 mins Presentation
+https://youtu.be/krjAuRgmE5Q
