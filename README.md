@@ -7,15 +7,14 @@
 1. [Introduction](#introduction)
 2. [Business Understanding](#business_understanding)
 3. [Data Understanding](#data_understanding)
-5. [Storytelling with Tableau](#story_telling)
-6. [Final Data Preparation](#data_preparation)
-7. [Decision Tree](#decision_tree)
-8. [Random Forest](#random_forest)
-9. [Logistic Regression](#logistic_regression)
-10. [Limitations](#limitations)
-11. [Conclusion](#conclusion)
-11. [References](#references)
-13. [Learning Journal](#learning_journal)
+4. [Storytelling with Tableau](#story_telling)
+5. [Final Data Preparation](#data_preparation)
+6. [Decision Tree](#decision_tree)
+7. [Random Forest](#random_forest)
+8. [Logistic Regression](#logistic_regression)
+9. [Limitations](#limitations)
+10. [Conclusion](#conclusion)
+
 
 # Employee Attrition Analysis
 Employee attrition is a crucial concern for companies as it disrupts workflow, depletes valuable resources, and incurs significant costs. On average, it costs $1,200 to recruit and train a new employee. Thus, it is imperative to understand and address the reasons behind employee turnover.
