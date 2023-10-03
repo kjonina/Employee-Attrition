@@ -7,7 +7,6 @@
 1. [Introduction](#introduction)
 2. [Business Understanding](#business_understanding)
 3. [Data Understanding](#data_understanding)
-4. [Data Exploration Analysis](#data_exploration_analysis)
 5. [Storytelling with Tableau](#story_telling)
 6. [Final Data Preparation](#data_preparation)
 7. [Decision Tree](#decision_tree)
@@ -21,7 +20,7 @@
 # Employee Attrition Analysis
 Employee attrition is a crucial concern for companies as it disrupts workflow, depletes valuable resources, and incurs significant costs. On average, it costs $1,200 to recruit and train a new employee. Thus, it is imperative to understand and address the reasons behind employee turnover.
 
-## Business Understanding
+# Business Understanding
 The first step in the CRISP-DM model is to establish a clear understanding of the business objectives, goals, and success criteria. This involves comprehending the reasons for employee turnover and what constitutes a successful analysis.
 
 ## Data Preparation
@@ -234,7 +233,7 @@ VIF analysis indicated limited multicollinearity, eliminating the need for furth
 Skewness and kurtosis analysis showed normally distributed data, eliminating the need for additional data transformation.
 Correlation and VIF analysis were revisited to confirm the handling of correlations and multicollinearity.
 
-## Final Data Preparation 
+# Final Data Preparation 
 
 After dropping irrelavant and highly correlated variables, there were 23 variables left with 1470 observations in the dataset. 
 
