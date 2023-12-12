@@ -20,7 +20,7 @@ We would highly recommend Exit Interviews/ Surveys and Focus Group to examine th
 - **Data Quality Assurance:**  Ensuring the reliability and completeness of data, including handling missing values and outliers that can impact the validity of analysis.
 - **Ethical Considerations:** Navigating ethical challenges related to data privacy, especially when dealing with sensitive information about employees.
 - **Decision-Making in Feature Selection:**  Choosing relevant features for analysis and model development, considering business objectives and potential impacts on outcomes.
-- **Imbalanced Dataset:**  More employees stayed in their job tan left, making it very difficult to answer which employees will churn.
+- **Imbalanced Dataset:**  More employees stayed in their jobs than left, making it very difficult to answer which employees will churn due to imbalanced data even though SMOTE upsampling techniques were engaged.
 
 ### Skills Gained:
 - **Data Preprocessing:** Cleaning and preparing data for analysis, including handling missing values, outliers, and transforming variables.
