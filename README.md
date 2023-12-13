@@ -1,6 +1,4 @@
-# Predicting Employee Turnover with 80% accuracy
-- Analyzed historical employee attrition data from IBM to gain valuable insights into the factors influencing turnover within the organization.
-- Proposed data-driven strategies to mitigate employee turnover, aiming to reduce expenses related to recruitment, hiring, training, and the potential loss of organizational progress.
+# Predicting Employee Turnover
 
 ### The Goal:
 The primary objective of this project was to address the challenge of high employee turnover within a company. The goal was to understand the factors influencing employees to either stay or leave the organization and to develop strategies for reducing turnover. The overarching aim was to create a data-driven approach to human resource management that would contribute to a healthier and more stable work environment.
