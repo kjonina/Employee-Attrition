@@ -8,6 +8,11 @@ The project adopted a comprehensive methodology, leveraging the CRISP-DM model f
 
 To refine the analysis, the project addressed issues of multicollinearity through the use of Variance Inflation Factor (VIF). Furthermore, dummy variables were employed for categorical features, streamlining the representation of data and reducing dimensionality. A key aspect of the solution was the integration of business objectives with data mining goals, aligning technical findings with organizational needs.
 
+## [Tableau Visualisation](https://github.com/kjonina/Employee-Attrition)
+
+<img src='screenshot/tabluea.png'/></a>
+
+
 ### Outcomes:
 The outcomes were multifaceted. The project successfully identified significant correlations between variables, highlighting factors like years of service and promotions as key influencers of attrition. Through dummy variable reduction and careful consideration of statistical measures, the final dataset was refined. Although the predictive models achieved an 80% accuracy rate, surpassing the defined success criteria, our analysis can only lead us so far because our data might not capture all issues in workplace. Over half of all laboratory technicians worked overtime and only 26% have left the workplace. It is important to remember that employees motives and issues are not captured during this dataset.
 We would highly recommend Exit Interviews/ Surveys and Focus Group to examine the employee's motivations and ambitions. 
