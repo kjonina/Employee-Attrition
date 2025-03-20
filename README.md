@@ -10,7 +10,7 @@ To refine the analysis, the project addressed issues of multicollinearity throug
 
 ## [Tableau Visualisation](https://github.com/kjonina/Employee-Attrition)
 
-<img src='screenshot/tabluea.png'/></a>
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/HR%20Dashboard.png'/></a>
 
 
 ### Outcomes:
